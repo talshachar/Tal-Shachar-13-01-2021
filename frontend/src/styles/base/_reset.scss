@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Poppins, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  margin: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  display: inline;
+}
+
+button,
+select {
+  cursor: pointer;
+  outline: none;
+  font-family: inherit;
+  color: inherit;
+}
+
+input {
+  font-family: inherit;
+}
+
+textarea {
+  font-family: inherit;
+  resize: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+::selection {
+  color: #fff;
+  background-color: #3f3d56;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #3f3d56;
+  border-radius: 1em;
+}

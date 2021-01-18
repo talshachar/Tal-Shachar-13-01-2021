@@ -1,0 +1,200 @@
+[
+  {
+    "_id": "KK2K91E8HDQ3J",
+    "sender": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "receiver": {
+      "_id": "u0",
+      "full_name": "Telescopes Staff",
+      "email": "no-reply@telescopes.com"
+    },
+    "subject": "RE: Greetings from Telescopes!",
+    "text": "Thanks!",
+    "creation_date": 1610859999530,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  },
+  {
+    "_id": "KK2K6IRW7CYUM",
+    "sender": {
+      "_id": "u4",
+      "full_name": "Typography Tips",
+      "email": "typography@tips.org"
+    },
+    "receiver": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "subject": "Typography is ok",
+    "text": "Hey,\n\n\t\tSome people just love whitespace",
+    "creation_date": 1610949932030,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  },
+  {
+    "_id": "KK2K4VDPSWTO9",
+    "sender": {
+      "_id": "u4",
+      "full_name": "Typography Tips",
+      "email": "typography@tips.org"
+    },
+    "receiver": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "subject": "Typography is ok",
+    "text": "Lorem ipsum dolor sit amet.\nThe quick brown fox jumps over the lazy dog.",
+    "creation_date": 1610939932030,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  },
+  {
+    "_id": "KK2K1ES1EB2BV",
+    "sender": {
+      "_id": "u7",
+      "full_name": "RealBank",
+      "email": "realbank@forsure.com"
+    },
+    "receiver": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "subject": "Balance Information: December",
+    "text": "Real Bank: Your current balance is £879.98.\n\nFor more information visit: realbank.com/login.",
+    "creation_date": 1610929932030,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  },
+  {
+    "_id": "KK2JTQLZXHR56",
+    "sender": {
+      "_id": "u6",
+      "full_name": "Millington Hotel",
+      "email": "millington@booking.com"
+    },
+    "receiver": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "subject": "4445789-YY Cancellation",
+    "text": "Booking Cancellation: 4445789-YY. Hope to see you in the future!",
+    "creation_date": 1610919932030,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  },
+  {
+    "_id": "KK2JNZY8G0ODU",
+    "sender": {
+      "_id": "u6",
+      "full_name": "Millington Hotel",
+      "email": "millington@booking.com"
+    },
+    "receiver": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "subject": "Booking Confirmation",
+    "text": "Booking confirmation: 4445789-YY. Millington Hotel is expecting you on 22.12.2018. Thank you for your order!",
+    "creation_date": 1610909932030,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  },
+  {
+    "_id": "KK2JLXMA2U0EC",
+    "sender": {
+      "_id": "u5",
+      "full_name": "Nigerian Scams",
+      "email": "peter@nigerianscams.net"
+    },
+    "receiver": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "subject": "Nigerian Scam",
+    "text": "Dear Friend.\nAs you read this, I don't want you to feel sorry for me, because, I believe everyone will die someday.",
+    "creation_date": 1610899932030,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  },
+  {
+    "_id": "KK2J3HRWYHP5I",
+    "sender": {
+      "_id": "u4",
+      "full_name": "Typography Tips",
+      "email": "typography@tips.org"
+    },
+    "receiver": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "subject": "Typography is awesome",
+    "text": "Lorem ipsum dolor sit amet.\nThe quick brown fox jumps over the lazy dog.",
+    "creation_date": 1610889932030,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  },
+  {
+    "_id": "KK2IXX3MB1ZF6",
+    "sender": {
+      "_id": "u3",
+      "full_name": "Sally HR",
+      "email": "sally@pyhr.com"
+    },
+    "receiver": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "subject": "PY Finance Interview",
+    "text": "You are invited to the interview at PY Finance at 10am this Wednesday on 21 Clarkwell Road.\n\nPlease call back on this number in case of problems. Sally from PY Finance HR.",
+    "creation_date": 1610879932030,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  },
+  {
+    "_id": "KK2IU6GGI82ZO",
+    "sender": {
+      "_id": "u2",
+      "full_name": "Hair Saloon",
+      "email": "charles@hair.com"
+    },
+    "receiver": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "subject": "Haircut Reminder!",
+    "text": "Hair Salon appointment reminder: haircut tomorrow at 10:30am with Charles. Any questions please call 0161 5555555.",
+    "creation_date": 1610869932030,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  },
+  {
+    "_id": "KK2FETUHRCAL8",
+    "sender": {
+      "_id": "u0",
+      "full_name": "Telescopes Staff",
+      "email": "no-reply@telescopes.com"
+    },
+    "receiver": {
+      "_id": "u1",
+      "full_name": "Tal Shachar",
+      "email": "shactal@gmail.com"
+    },
+    "subject": "Greetings from Telescopes!",
+    "text": "Welcome abroad!\n\nWe are delighted to have you among us.\nOn behalf of all the members and the management, we would like to extend our warmest welcome and good wishes!",
+    "creation_date": 1610859932030,
+    "sender_deleted": false,
+    "receiver_deleted": false
+  }
+]
